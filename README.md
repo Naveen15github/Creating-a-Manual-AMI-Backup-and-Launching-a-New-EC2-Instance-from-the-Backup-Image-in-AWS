@@ -6,7 +6,7 @@ The purpose of this task was to understand instance recovery, cloning, and backu
 
 ##🪜 Steps Performed
 🔹 1. Created Manual AMI Backup
-![Alt text](image_url)
+![Alt text](https://github.com/Naveen15github/Creating-a-Manual-AMI-Backup-and-Launching-a-New-EC2-Instance-from-the-Backup-Image-in-AWS/blob/5730b4dc51cb73b400db4236b5b3a64d168407c4/Screenshot%20(103).png)
 
 Opened the AWS Management Console and navigated to EC2 → Instances.
 
@@ -25,7 +25,7 @@ Verified the AMI creation under AMIs tab — its state changed from pending to a
 ✅ Result: A manual AMI was successfully created, containing the OS, configurations, and root volume snapshot of my EC2 instance.
 
 🔹 2. Launched a New EC2 Instance from AMI
-![Alt text](image_url)
+![Alt text](https://github.com/Naveen15github/Creating-a-Manual-AMI-Backup-and-Launching-a-New-EC2-Instance-from-the-Backup-Image-in-AWS/blob/5730b4dc51cb73b400db4236b5b3a64d168407c4/Screenshot%20(103).png)
 
 Navigated to EC2 → AMIs in the AWS Console.
 
@@ -54,8 +54,8 @@ RDP (for Windows)
 Verified that all configurations and data from the original instance were present.
 
 ✅ Result: A new EC2 instance was successfully created and launched from the AMI backup.
-![Alt text](image_url)
-![Alt text](image_url)
+![Alt text](https://github.com/Naveen15github/Creating-a-Manual-AMI-Backup-and-Launching-a-New-EC2-Instance-from-the-Backup-Image-in-AWS/blob/5730b4dc51cb73b400db4236b5b3a64d168407c4/Screenshot%20(105).png)
+![Alt text](https://github.com/Naveen15github/Creating-a-Manual-AMI-Backup-and-Launching-a-New-EC2-Instance-from-the-Backup-Image-in-AWS/blob/5730b4dc51cb73b400db4236b5b3a64d168407c4/Screenshot%20(106).png)
 
 🧩 Purpose of the Task
 
