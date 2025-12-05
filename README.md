@@ -2,10 +2,17 @@
 In this task, I created a Manual Amazon Machine Image (AMI) backup of an existing EC2 instance and then launched a new EC2 instance using that AMI.
 This process demonstrates how to safely back up an instance, preserve its configuration, and quickly restore or duplicate it when needed.
 
+## Architecture Diagram
+
+![Alt Text](relative-or-absolute-path-to-image)
+
+
 The purpose of this task was to understand instance recovery, cloning, and backup management in AWS.
 
 ##🪜 Steps Performed
+
 🔹 1. Created Manual AMI Backup
+
 ![Alt text](https://github.com/Naveen15github/Creating-a-Manual-AMI-Backup-and-Launching-a-New-EC2-Instance-from-the-Backup-Image-in-AWS/blob/5730b4dc51cb73b400db4236b5b3a64d168407c4/Screenshot%20(103).png)
 
 Opened the AWS Management Console and navigated to EC2 → Instances.
