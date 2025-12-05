@@ -4,7 +4,7 @@ This process demonstrates how to safely back up an instance, preserve its config
 
 ## Architecture Diagram
 
-![Alt Text](relative-or-absolute-path-to-image)
+![Alt Text](https://github.com/Naveen15github/Creating-a-Manual-AMI-Backup-and-Launching-a-New-EC2-Instance-from-the-Backup-Image-in-AWS/blob/65d4e06d79b779824c08d01e81e80569f16c1f03/ChatGPT%20Image%20Dec%205%2C%202025%2C%2009_44_57%20AM.png)
 
 
 The purpose of this task was to understand instance recovery, cloning, and backup management in AWS.
